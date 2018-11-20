@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 20, 2018
 
 ### Student Name:  
-(First and Last Name)
+Caitlyn Colvin
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment was meant to create a photo gallery with interactive buttons to display a different image at the center of the page.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://cnc16j.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to create a loop using a for loop.
+2. I learned how to clone nodes using cloneNode().
+3. I learned how to attach nodes to the DOM tree using appendChild().
 
